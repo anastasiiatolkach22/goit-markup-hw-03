@@ -1,0 +1,190 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+/* header */
+.logo {
+  color: #4d5ae5;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.logo-part {
+  color: #2e2f42;
+}
+.nav-link {
+  color: #2e2f42;
+
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+
+  letter-spacing: 0.02em;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+.addres {
+  font-style: normal;
+}
+.addres-link {
+  color: #434455;
+
+  font-size: 16px;
+
+  line-height: 1.5;
+
+  letter-spacing: 0.02em;
+}
+.addres-link:hover,
+.addres-link:focus {
+  color: #404bbf;
+}
+/* hero */
+.hero {
+  background-color: #2e2f42;
+}
+
+.hero-title {
+  color: #fff;
+  text-align: center;
+
+  font-size: 56px;
+
+  line-height: 1.07;
+
+  letter-spacing: 0.02em;
+}
+
+.hero-btn {
+  color: #fff;
+
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+  letter-spacing: 0.04em;
+  background-color: #4d5ae5;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+}
+/* Futures */
+.futeres-subtitle {
+  color: #2e2f42;
+
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 1.2;
+
+  letter-spacing: 0.02em;
+}
+
+.futeres-desc {
+  font-size: 16px;
+
+  line-height: 1.5;
+
+  letter-spacing: 0.02em;
+}
+/* team */
+.team {
+  background-color: #f4f4fd;
+}
+.team-item {
+  background-color: #fff;
+}
+.team-title {
+  color: #2e2f42;
+  text-align: center;
+
+  font-size: 36px;
+
+  line-height: 1.11;
+
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+
+.team-subtitle {
+  color: #2e2f42;
+
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 1.2;
+
+  letter-spacing: 0.02em;
+}
+
+.team-desk {
+  font-size: 16px;
+
+  line-height: 1.5;
+
+  letter-spacing: 0.02em;
+}
+/* portfolio */
+.portfolio-title {
+  color: #2e2f42;
+  text-align: center;
+
+  font-size: 36px;
+
+  line-height: 1.11;
+
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+
+.portfolio-subtitle {
+  color: #2e2f42;
+
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 1.2;
+
+  letter-spacing: 0.02em;
+}
+
+.porfolio-desk {
+  font-size: 16px;
+
+  line-height: 1.5;
+
+  letter-spacing: 0.02em;
+}
+/* footer */
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-logo-part {
+  color: #f4f4fd;
+}
+
+.footer-desk {
+  color: #f4f4fd;
+
+  font-size: 16px;
+
+  line-height: 1.5;
+
+  letter-spacing: 0.02em;
+}
